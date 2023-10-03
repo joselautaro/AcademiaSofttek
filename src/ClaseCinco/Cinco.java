@@ -127,8 +127,6 @@ public class Cinco {
                     default:
                         System.out.println("No coincide con ninguno de los anteriores");
                 }
-                */
-                
                 
                 Scanner scanner = new Scanner(System.in);
                 
@@ -140,6 +138,10 @@ public class Cinco {
                 }else{
                     System.out.println("El número es impar");
                 }
+                */
+                
+                
+                
                
                 
                
