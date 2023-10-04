@@ -88,7 +88,7 @@ public class ClaseCincoBis {
         */
         
         //Algoritmo que imprime una secuencia de numeros ingresadas por el usuario
-        
+        /*
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese el número inicial: ");
         
@@ -101,6 +101,7 @@ public class ClaseCincoBis {
         for ( int i = inicio; i < fin; i ++){
             System.out.println(i); //Imprime en este caso la secuencia de números
         }
+*/
     }
     
 }
